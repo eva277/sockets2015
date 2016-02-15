@@ -7,3 +7,6 @@ C:\Users\luis\Desktop\sockets2015\13-ServidorPPTFullDuplex\obj\Debug\_13_Servido
 C:\Users\luis\Desktop\sockets2015\13-ServidorPPTFullDuplex\obj\Debug\13-ServidorPPTFullDuplex.csproj.GenerateResource.Cache
 C:\Users\luis\Desktop\sockets2015\13-ServidorPPTFullDuplex\obj\Debug\13-ServidorPPTFullDuplex.exe
 C:\Users\luis\Desktop\sockets2015\13-ServidorPPTFullDuplex\obj\Debug\13-ServidorPPTFullDuplex.pdb
+C:\Users\dam215\Documents\Visual Studio 2015\Projects\sockets2015\sockets2015\13-ServidorPPTFullDuplex\bin\Debug\13-ServidorPPTFullDuplex.exe.config
+C:\Users\dam215\Documents\Visual Studio 2015\Projects\sockets2015\sockets2015\13-ServidorPPTFullDuplex\obj\Debug\13-ServidorPPTFullDuplex.exe
+C:\Users\dam215\Documents\Visual Studio 2015\Projects\sockets2015\sockets2015\13-ServidorPPTFullDuplex\obj\Debug\13-ServidorPPTFullDuplex.pdb
