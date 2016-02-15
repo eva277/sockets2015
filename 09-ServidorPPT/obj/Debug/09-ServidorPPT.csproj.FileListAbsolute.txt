@@ -1,0 +1,9 @@
+C:\Users\luis\Desktop\sockets2015\09-ServidorPPT\bin\Debug\09-ServidorPPT.exe.config
+C:\Users\luis\Desktop\sockets2015\09-ServidorPPT\bin\Debug\09-ServidorPPT.exe
+C:\Users\luis\Desktop\sockets2015\09-ServidorPPT\bin\Debug\09-ServidorPPT.pdb
+C:\Users\luis\Desktop\sockets2015\09-ServidorPPT\obj\Debug\09-ServidorPPT.csprojResolveAssemblyReference.cache
+C:\Users\luis\Desktop\sockets2015\09-ServidorPPT\obj\Debug\_09_ServidorPPT.Form1.resources
+C:\Users\luis\Desktop\sockets2015\09-ServidorPPT\obj\Debug\_09_ServidorPPT.Properties.Resources.resources
+C:\Users\luis\Desktop\sockets2015\09-ServidorPPT\obj\Debug\09-ServidorPPT.csproj.GenerateResource.Cache
+C:\Users\luis\Desktop\sockets2015\09-ServidorPPT\obj\Debug\09-ServidorPPT.exe
+C:\Users\luis\Desktop\sockets2015\09-ServidorPPT\obj\Debug\09-ServidorPPT.pdb

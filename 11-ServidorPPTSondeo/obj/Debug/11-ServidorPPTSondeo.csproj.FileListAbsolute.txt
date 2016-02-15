@@ -1,0 +1,8 @@
+C:\Users\luis\Desktop\sockets2015\11-ServidorPPTSondeo\bin\Debug\11-ServidorPPTSondeo.exe.config
+C:\Users\luis\Desktop\sockets2015\11-ServidorPPTSondeo\obj\Debug\_11_ServidorPPTSondeo.Properties.Resources.resources
+C:\Users\luis\Desktop\sockets2015\11-ServidorPPTSondeo\obj\Debug\11-ServidorPPTSondeo.csproj.GenerateResource.Cache
+C:\Users\luis\Desktop\sockets2015\11-ServidorPPTSondeo\bin\Debug\11-ServidorPPTSondeo.exe
+C:\Users\luis\Desktop\sockets2015\11-ServidorPPTSondeo\bin\Debug\11-ServidorPPTSondeo.pdb
+C:\Users\luis\Desktop\sockets2015\11-ServidorPPTSondeo\obj\Debug\_11_ServidorPPTSondeo.Form1.resources
+C:\Users\luis\Desktop\sockets2015\11-ServidorPPTSondeo\obj\Debug\11-ServidorPPTSondeo.exe
+C:\Users\luis\Desktop\sockets2015\11-ServidorPPTSondeo\obj\Debug\11-ServidorPPTSondeo.pdb

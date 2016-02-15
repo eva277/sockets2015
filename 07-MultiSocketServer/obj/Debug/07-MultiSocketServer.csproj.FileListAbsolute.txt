@@ -1,0 +1,3 @@
+C:\Users\luis\Desktop\sockets2015\07-MultiSocketServer\bin\Debug\07-MultiSocketServer.exe.config
+C:\Users\luis\Desktop\sockets2015\07-MultiSocketServer\obj\Debug\07-MultiSocketServer.exe
+C:\Users\luis\Desktop\sockets2015\07-MultiSocketServer\obj\Debug\07-MultiSocketServer.pdb

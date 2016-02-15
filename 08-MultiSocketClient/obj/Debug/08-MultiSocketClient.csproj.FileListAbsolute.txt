@@ -1,0 +1,8 @@
+C:\Users\luis\Desktop\sockets2015\08-MultiSocketClient\obj\Debug\_08_MultiSocketClient.Form1.resources
+C:\Users\luis\Desktop\sockets2015\08-MultiSocketClient\obj\Debug\_08_MultiSocketClient.Properties.Resources.resources
+C:\Users\luis\Desktop\sockets2015\08-MultiSocketClient\obj\Debug\08-MultiSocketClient.csproj.GenerateResource.Cache
+C:\Users\luis\Desktop\sockets2015\08-MultiSocketClient\bin\Debug\08-MultiSocketClient.exe.config
+C:\Users\luis\Desktop\sockets2015\08-MultiSocketClient\bin\Debug\08-MultiSocketClient.exe
+C:\Users\luis\Desktop\sockets2015\08-MultiSocketClient\bin\Debug\08-MultiSocketClient.pdb
+C:\Users\luis\Desktop\sockets2015\08-MultiSocketClient\obj\Debug\08-MultiSocketClient.exe
+C:\Users\luis\Desktop\sockets2015\08-MultiSocketClient\obj\Debug\08-MultiSocketClient.pdb
